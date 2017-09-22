@@ -5,6 +5,6 @@ Using Android thing with telegram bot api for testing android things feature
 
 ### TelegramBotApi Library: https://github.com/pengrad/java-telegram-bot-api
 
-<img src="https://github.com/javadghane/AndroidThingsWithTelegramBot/blob/master/AndroidThingsLogo.jpg" width="100" >
-<img src="https://github.com/javadghane/AndroidThingsWithTelegramBot/blob/master/Circuit.jpg" width="100" >
+<img src="https://github.com/javadghane/AndroidThingsWithTelegramBot/blob/master/AndroidThingsLogo.jpg" width="200" >
+<img src="https://github.com/javadghane/AndroidThingsWithTelegramBot/blob/master/Circuit.jpg" width="200" >
 
